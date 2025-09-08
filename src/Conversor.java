@@ -16,10 +16,10 @@ public class Conversor {
         celsius = scDouble.nextDouble();
 
 
-        calculoConversao();
+        calculoConversaoDeTemperatura();
     }
 
-    private void calculoConversao(){
+    private void calculoConversaoDeTemperatura(){
     /* C > F = C x 1,8 + 32
        C > K = C + 273,15
      */
