@@ -23,7 +23,7 @@ public class Conversor {
     /* C > F = C x 1,8 + 32
        C > K = C + 273,15
      */
-         resultadoFahrenheit = celsius * 1.8 + 32;
+         resultadoFahrenheit = (celsius * 1.8) + 32;
          resultadoKelvin = celsius + 273.15;
 
 
