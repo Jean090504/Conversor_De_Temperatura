@@ -33,8 +33,8 @@ public class Conversor {
     private void saidaDados(){
         System.out.println("*********CONVERSOR**DE**TEMPERATURA*********");
         System.out.println(celsius +"Cº equivalem a:");
-        System.out.println("Resultado em Fahrenheit: "+ resultadoFahrenheit + "Fº");
-        System.out.println("Resultado em Kelvin: " + resultadoKelvin + "Kº");
+        System.out.println("Resultado em Fahrenheit: "+ resultadoFahrenheit + "Fº (Fahrenheit)");
+        System.out.println("Resultado em Kelvin: " + resultadoKelvin + "Kº (Kelvin)");
         System.out.println("********************************************");
 
     }
